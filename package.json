@@ -1,5 +1,5 @@
 {
-  "name": "Full-Screen-Touch-Slider",
+  "name": "full-screen-touch-slider",
   "version": "1.0.0",
   "description": "Works with mouse or touch events",
   "main": "",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inoas/Full-Screen-Touch-Slider.git"
+    "url": "git+https://github.com/inoas/full-screen-touch-slider.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inoas/Full-Screen-Touch-Slider/issues"
+    "url": "https://github.com/inoas/full-screen-touch-slider/issues"
   },
-  "homepage": "https://github.com/inoas/Full-Screen-Touch-Slider#readme"
+  "homepage": "https://github.com/inoas/full-screen-touch-slider#readme"
 }

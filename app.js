@@ -2,6 +2,7 @@
 const spawnSliderOn = function (baseSelector) {
 	document.querySelectorAll(baseSelector).forEach(function (baseElem) {
 		console.log(`Spawning slider on: ${baseSelector} / id: ${baseElem.id} / classes: ${Array.from(baseElem.classList.values()).join(' ')} `);
+
 		// get our elements
 		const slider = baseElem.querySelector(`.slider-container`),
 			slides = Array.from(baseElem.querySelectorAll(`.slider-container .slide`))
